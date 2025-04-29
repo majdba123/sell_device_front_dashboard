@@ -1,5 +1,5 @@
 module.exports = {
-    content: ['./**/*.html', './/sell_device_front_dashboard/assets/**/*.js'],
+    content: ['./**/*.html', './/assets/**/*.js'],
     darkMode: 'class',
     theme: {
         container: {

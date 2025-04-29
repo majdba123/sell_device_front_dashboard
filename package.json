@@ -4,8 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "dev": "npx tailwindcss -i /sell_device_front_dashboard/assets/css/tailwind.css -o /sell_device_front_dashboard/assets/css/style.css --watch",
-        "build": "npx tailwindcss -i /sell_device_front_dashboard/assets/css/tailwind.css -o /sell_device_front_dashboard/assets/css/style.css --minify"
+        "dev": "npx tailwindcss -i /assets/css/tailwind.css -o /assets/css/style.css --watch",
+        "build": "npx tailwindcss -i /assets/css/tailwind.css -o /assets/css/style.css --minify"
     },
     "author": "",
     "license": "ISC",
